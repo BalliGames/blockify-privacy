@@ -1,2 +1,2 @@
 # blockify-privacy
-Privacy Policy for Blockify by BallıGames
+Privacy Policy for Blockify by YurdixTech
